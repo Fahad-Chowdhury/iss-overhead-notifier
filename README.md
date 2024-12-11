@@ -1,6 +1,5 @@
 # ** ISS Overhead Notifier **
 
-
 ## About
 An `ISS Overhead Notifier` application is developed in Python using the `requests` package for handling API interactions and the `smtplib` package for sending email notifications.
 
